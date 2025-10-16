@@ -1,2 +1,0 @@
-java21=C:\Program Files\Java\jdk-21\bin\javaw.exe
-lwjgl_331=C:\StellarMC-main\StellarMC install kit\Natives\lwjgl-3.3.1
