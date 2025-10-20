@@ -6,7 +6,7 @@ To run Pear Client, you need to install Python ([*https://www.python.org/downloa
 
 
 
-2, Extract the "Pear-Client-main.zip" to just the C:\\ drive, launcher wants it there, so do it!
+2, Extract the "Pear-Client-main.zip" to the C:\\ drive.
 
 
 
@@ -18,4 +18,5 @@ To run Pear Client, you need to install Python ([*https://www.python.org/downloa
 
 
 
-////Please report any bugs you find to [https://github.com/mrotski/StellarMC/issues](https://github.com/mrotski/StellarMC/issues)//
+////Please report any bugs you find to [https://github.com/mrotski/Pear-Client/issues](https://github.com/mrotski/Pear-Client/issues)//
+
