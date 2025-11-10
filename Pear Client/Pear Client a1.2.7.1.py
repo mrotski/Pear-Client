@@ -205,7 +205,7 @@ root.configure(bg="#2e8b57")
 main_frame = tk.Frame(root, bg="#2e8b57")
 main_frame.pack(expand=True)
 
-tk.Label(main_frame, text="PearClient A1.2", font=("Helvetica", 20, "bold"), fg="dark green", bg="#2e8b57").pack(pady=20)
+tk.Label(main_frame, text="PearClient A1.2", font=("Helvetica", 20, "bold"), fg="white", bg="#2e8b57").pack(pady=20)
 
 tk.Label(main_frame, text="Choose version:", font=("Helvetica", 14), fg="white", bg="#2e8b57").pack()
 version_var = tk.StringVar(value=versions[0])
@@ -229,3 +229,4 @@ launch_button = tk.Button(
 )
 launch_button.pack(pady=20)
 root.mainloop()
+
